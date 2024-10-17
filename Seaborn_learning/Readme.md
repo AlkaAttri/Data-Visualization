@@ -1,5 +1,6 @@
 # Seaborn-tutorial 
-I learned seaborn library from this [YouTube video](https://www.youtube.com/watch?v=6GUZXDef2U0)
+I learned seaborn library from this [YouTube video](https://www.youtube.com/watch?v=6GUZXDef2U0).
+I have summarized all of following topics in a Google colab notebook:
 
 - **Relational Plots** - Scatter plot , Line plot,and Relplot
 
